@@ -1,0 +1,40 @@
+.table-view {
+    -fx-font-size: 14px;
+    -fx-font-family: "Times New Roman";
+}
+
+.table-text-black .table-cell {
+    -fx-text-fill: black;
+}
+
+.table-text-red .table-cell {
+    -fx-text-fill: red;
+}
+
+.table-text-green .table-cell {
+    -fx-text-fill: green;
+}
+
+.table-text-blue .table-cell {
+    -fx-text-fill: blue;
+}
+
+.font-times .table-cell {
+    -fx-font-family: "Times New Roman";
+}
+
+.font-courier .table-cell {
+    -fx-font-family: "Courier New";
+}
+
+.font-consolas .table-cell {
+    -fx-font-family: "Consolas";
+}
+
+.font-bold .table-cell {
+    -fx-font-weight: bold;
+}
+
+.font-italic .table-cell {
+    -fx-font-style: italic;
+}
