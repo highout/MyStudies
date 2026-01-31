@@ -1,0 +1,12 @@
+2026-01-30 12:02:25 GMT LOG:  database system was interrupted; last known up at 2026-01-30 11:56:56 GMT
+2026-01-30 12:02:25 GMT LOG:  database system was not properly shut down; automatic recovery in progress
+2026-01-30 12:02:25 GMT LOG:  redo starts at 0/1CD5570
+2026-01-30 12:02:25 GMT LOG:  invalid record length at 0/1CD55A8: expected at least 24, got 0
+2026-01-30 12:02:25 GMT LOG:  redo done at 0/1CD5570 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-01-30 12:02:25 GMT LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-01-30 12:02:25 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.004 s, total=0.017 s; sync files=2, longest=0.003 s, average=0.002 s; distance=0 kB, estimate=0 kB; lsn=0/1CD55A8, redo lsn=0/1CD55A8
+2026-01-30 13:05:01 GMT LOG:  shutting down
+2026-01-30 13:05:01 GMT LOG:  checkpoint starting: shutdown immediate
+2026-01-30 13:05:01 GMT ERROR:  canceling statement due to user request
+2026-01-30 13:05:01 GMT ERROR:  canceling statement due to user request
+2026-01-30 13:05:01 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.027 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/1CD5658, redo lsn=0/1CD5658
