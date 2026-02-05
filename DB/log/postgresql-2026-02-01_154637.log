@@ -1,0 +1,7 @@
+2026-02-01 15:46:38 GMT LOG:  database system was shut down at 2026-02-01 15:45:53 GMT
+2026-02-01 15:51:38 GMT LOG:  checkpoint starting: time
+2026-02-01 15:51:38 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.005 s, sync=0.008 s, total=0.036 s; sync files=2, longest=0.007 s, average=0.004 s; distance=0 kB, estimate=0 kB; lsn=0/1CD5C30, redo lsn=0/1CD5BD8
+2026-02-01 16:08:04 GMT LOG:  shutting down
+2026-02-01 16:08:04 GMT LOG:  checkpoint starting: shutdown immediate
+2026-02-01 16:08:04 GMT ERROR:  canceling statement due to user request
+2026-02-01 16:08:04 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.020 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=0 kB; lsn=0/1CD5CE0, redo lsn=0/1CD5CE0

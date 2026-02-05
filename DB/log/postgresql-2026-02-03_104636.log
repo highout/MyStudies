@@ -1,0 +1,3 @@
+2026-02-03 10:46:36 GMT LOG:  database system was shut down at 2026-02-03 10:45:59 GMT
+2026-02-03 10:51:36 GMT LOG:  checkpoint starting: time
+2026-02-03 10:51:36 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.010 s, sync=0.007 s, total=0.039 s; sync files=2, longest=0.004 s, average=0.004 s; distance=0 kB, estimate=0 kB; lsn=0/1CD63D8, redo lsn=0/1CD6380
