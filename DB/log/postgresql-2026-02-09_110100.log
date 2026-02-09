@@ -1,0 +1,7 @@
+2026-02-09 11:01:05 GMT LOG:  database system was interrupted; last known up at 2026-02-09 10:46:33 GMT
+2026-02-09 11:01:15 GMT LOG:  syncing data directory (fsync), elapsed time: 10.17 s, current path: ./log/postgresql-2026-01-28_161830.log
+2026-02-09 11:01:16 GMT LOG:  database system was not properly shut down; automatic recovery in progress
+2026-02-09 11:01:16 GMT LOG:  redo starts at 0/1CD6B30
+2026-02-09 11:01:16 GMT LOG:  invalid record length at 0/1CD6B68: expected at least 24, got 0
+2026-02-09 11:01:16 GMT LOG:  redo done at 0/1CD6B30 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-02-09 11:01:16 GMT LOG:  checkpoint starting: end-of-recovery immediate wait
