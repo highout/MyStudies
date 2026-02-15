@@ -1,0 +1,7 @@
+2026-02-12 12:02:32 GMT LOG:  database system was interrupted; last known up at 2026-02-12 09:58:08 GMT
+2026-02-12 12:02:32 GMT LOG:  database system was not properly shut down; automatic recovery in progress
+2026-02-12 12:02:32 GMT LOG:  redo starts at 0/1CD7738
+2026-02-12 12:02:32 GMT LOG:  invalid record length at 0/1CD7770: expected at least 24, got 0
+2026-02-12 12:02:32 GMT LOG:  redo done at 0/1CD7738 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2026-02-12 12:02:32 GMT LOG:  checkpoint starting: end-of-recovery immediate wait
+2026-02-12 12:02:32 GMT LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.005 s, total=0.019 s; sync files=2, longest=0.003 s, average=0.003 s; distance=0 kB, estimate=0 kB; lsn=0/1CD7770, redo lsn=0/1CD7770
