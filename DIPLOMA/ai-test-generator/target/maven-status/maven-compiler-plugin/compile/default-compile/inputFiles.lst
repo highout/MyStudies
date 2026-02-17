@@ -1,0 +1,15 @@
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\exceptions\ErrorResponse.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\exceptions\GlobalExceptionHandler.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\dto\Difficulty.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\dto\GenerateQuizRequest.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\dto\QuestionResponse.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\dto\QuestionType.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\dto\QuizResponse.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\entity\Question.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\entity\Quiz.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\mapper\QuizMapper.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\QuizComponent.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\QuizController.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\QuizService.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\quizzes\repository\QuizRepository.java
+C:\Users\Test\Studies\DIPLOMA\ai-test-generator\src\main\java\ai_test_generator\TestGeneratorApplication.java
